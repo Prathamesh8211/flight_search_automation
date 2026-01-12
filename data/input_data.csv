@@ -1,0 +1,6 @@
+from_city,to_city,departure_date,stops
+Delhi,Mumbai,2026-01-20,1
+Mumbai,Bangalore,2026-01-22,2
+Pune,Delhi,2026-01-25,1
+Chennai,Hyderabad,2026-01-27,1
+Delhi,Goa,2026-01-29,2
