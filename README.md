@@ -30,6 +30,7 @@ Sample Input Data
 File: data/input_data.csv
 
 from_city,to_city,departure_date,stops
+
 Delhi,Mumbai,2026-01-20,1
 Mumbai,Bangalore,2026-01-22,2
 Pune,Delhi,2026-01-25,1
